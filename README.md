@@ -9,4 +9,4 @@
 >
 >
 ## And you can see the preview in the bottom link
->[***Coffe Shop Website***](https://amirhasanfiroozi.github.io/html-css-javascript-coffeeShop/)
+>[***Coffee Shop Website***](https://amirhasanfiroozi.github.io/html-css-javascript-coffeeShop/)
