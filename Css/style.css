@@ -336,6 +336,8 @@ loader
   opacity: 1;
   visibility: visible;
   transition: all 0.3s;
+  visibility: hidden;
+  opacity: 0;
 }
 .loader__gone{
   visibility: hidden;
